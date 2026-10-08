@@ -10,8 +10,8 @@ The mod's code lives in [PHUICMT/SDV-Radiance](https://github.com/PHUICMT/SDV-Ra
 | `clips/` | Single animations (mod off and on, walking along the water, the tuner opening) |
 | `buttons/` | Support buttons |
 
-The page loads these through jsDelivr from a tag, for example
-`https://cdn.jsdelivr.net/gh/PHUICMT/SDV-Radiance-media@v1/banners/see-it.png`,
-so a picture on the page only changes when a new tag is pointed at.
+The page loads these through GitHub Pages, for example
+`https://phuicmt.github.io/SDV-Radiance-media/banners/see-it.png`. Replacing a file here replaces
+it on the page, so a new picture goes in under a new name when the old one should stay as it is.
 
 Screenshots are from Stardew Valley by ConcernedApe, with the mods named under each picture on the page.
